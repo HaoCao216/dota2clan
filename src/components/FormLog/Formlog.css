@@ -1,0 +1,29 @@
+.redesign-modal {
+  background-color: #fff;
+  padding: 0px;
+}
+
+.redesign-modal .form-log {
+  position: relative;
+  height: 400px;
+}
+
+.redesign-modal div{
+  box-shadow: none !important;
+}
+
+.form-log img {
+
+  position: absolute;
+
+}
+
+.log-in img{
+  width: 350px;
+  left: -215px;
+  top: -50px;
+}
+
+.TabsExample {
+  margin: 95px 51px;
+}

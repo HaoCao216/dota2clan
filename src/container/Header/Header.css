@@ -1,0 +1,8 @@
+.font-size::before{
+  font-size: 22px !important;
+  color: #2458B3 !important;
+}
+
+.form-log{
+  text-align: center
+}
